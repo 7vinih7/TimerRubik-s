@@ -1,0 +1,15 @@
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\bin\Debug\TimerRubik's.exe.config
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\bin\Debug\TimerRubik's.exe
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\bin\Debug\TimerRubik's.pdb
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.csproj.AssemblyReference.cache
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik_s.Form1.resources
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik_s.Properties.Resources.resources
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.csproj.GenerateResource.cache
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.exe
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.pdb
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.exe.config
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\bin\Debug\TimerRubik's.exe.manifest
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\bin\Debug\TimerRubik's.application
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.exe.manifest
+C:\Users\Vinicius\source\repos\TimerRubik's\TimerRubik's\obj\Debug\TimerRubik's.application
